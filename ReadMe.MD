@@ -1,2 +1,0 @@
-First JavaScript
-Color Clock
